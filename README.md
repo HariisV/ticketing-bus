@@ -1,6 +1,13 @@
 # Bus Ticket Order App
 Used by transportation companies or bus operators to streamline their ticketing process, handle reservations, and keep track of passenger information. 
 
+## About Me
+- **Nama Lengkap**: Haris Wahyudi
+- **NIM**: 220401010015
+- **Kelas**: IT 402
+- **Mata Kuliah**: Pemrograman Web II
+- **Dosen**: R. Muhamad Firzatullah, S.Pd, M.Kom
+
 ## Tech Stack
 - PHP 8.2
 - MySQL 8.0
